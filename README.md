@@ -1,11 +1,9 @@
 <h1 align="center" ,color:blue"> 
 Hi 👋, I'm Gokul Chandra kandpal</h1>
 <img src="https://camo.githubusercontent.com/94d568584e36423ce1fae3bd89a1335d2cbf7da1d98557b786a113b20bd841bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343338323431322f73637265656e73686f74732f31353633333237352f6d656469612f30383561303134656265626465373365356364353130633933393431663439612e676966" alt="kandpalgokul01" />
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandpalgokul01&label=Profile%20views&color=0e75b6&style=flat" alt="kandpalgokul01" /> </p>
-
-- 🌱 I’m currently learning **Java Backend Development,Spring Boot,Hiberante**
 
 - 👨‍💻 All of my projects are available at [https://kandpalgokul01.github.io/](https://kandpalgokul01.github.io/)
 
